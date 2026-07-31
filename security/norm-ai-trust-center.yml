@@ -1,0 +1,12 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.norm.ai/
+url: https://trust.norm.ai/
+certifications:
+- SOC 2
+evidence:
+- source: https://trust.norm.ai/
+  keywords:
+  - soc 2
+  - trust center

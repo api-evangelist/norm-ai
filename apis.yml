@@ -1,11 +1,29 @@
 aid: norm-ai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/norm-ai.png
 name: Norm Ai
-description: 'Norm Ai is a company surfaced as a portfolio company of bain-capital-ventures, craft-ventures
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai-apps. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: 'Norm Ai (legal name Nomos AI, Inc.) is a legal and compliance AI company
+  that embeds law and regulation directly into autonomous AI agents. Its platform spans
+  Norm Law (an AI-native law firm), Norm Technology (domain-expert-built compliance agents),
+  and Supervisory AI (systems that verify agent compliance), automating legal and regulatory
+  workflows for financial institutions and enterprises. Backed by a $120M Series C round,
+  it serves clients managing over $30 trillion in combined assets. No public developer
+  API, documentation, or SDK is currently published; this profile captures the company''s
+  security, compliance, and identity surface.'
 url: https://raw.githubusercontent.com/api-evangelist/norm-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
+x-legal-name: Nomos AI, Inc.
 x-backed-by:
 - bain-capital-ventures
 - craft-ventures
@@ -13,10 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Ai Apps
+- Legal
+- Compliance
+- AI Agents
+- RegTech
+- Governance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +49,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.norm.ai/
+- type: Blog
+  url: https://www.norm.ai/resources
+- type: TrustCenter
+  url: security/norm-ai-trust-center.yml
+- type: Compliance
+  url: https://trust.norm.ai/
+- type: TermsOfService
+  url: https://www.norm.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.norm.ai/privacy-policy
+- type: DomainSecurity
+  url: security/norm-ai-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
