@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Norm Ai is a company surfaced as a portfolio company of bain-capital-ventures, craft-ventures and added to the API Evangelist network as a stub for enrichment. Sector: ai-apps. This profile is a lead awaiting the enrichment pipeline.
+Norm Ai (legal name Nomos AI, Inc.) is a legal and compliance AI company that embeds law and regulation directly into autonomous AI agents. Its platform spans Norm Law (an AI-native law firm), Norm Technology (domain-expert-built compliance agents), and Supervisory AI (systems that verify agent compliance), automating legal and regulatory workflows for financial institutions and enterprises. Backed by a $120M Series C round, it serves clients managing over $30 trillion in combined assets. No public developer API, documentation, or SDK is currently published; this profile captures the company's security, compliance, and identity surface.
 
-Backed by: bain-capital-ventures, craft-ventures — https://www.norm.ai/
+**Areas:** Company · Ai Apps · Legal · Compliance · AI Agents · RegTech · Governance
+
+## Norm Ai on APIs.io
+
+Everything profiled for Norm Ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/norm-ai/](https://apis.io/providers/norm-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Norm Ai Domain Security](https://apis.io/security/norm-ai/norm-ai-domain-security/)
+- [Norm Ai Trust Center](https://apis.io/security/norm-ai/norm-ai-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.norm.ai/)
+- [Blog](https://www.norm.ai/resources)
+- [Compliance](https://trust.norm.ai/)
+- [Terms of service](https://www.norm.ai/terms-of-service)
+- [Privacy policy](https://www.norm.ai/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 13.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/norm-ai/](https://apis.io/providers/norm-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Norm Ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/norm-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
